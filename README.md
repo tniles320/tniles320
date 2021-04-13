@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?tniles320=greenpioneer&layout=compact)](https://github.com/greenpioneer/github-readme-stats)
+
 <!--
 **tniles320/tniles320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
