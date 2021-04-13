@@ -2,6 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tniles320&layout=compact)](https://github.com/tniles320/github-readme-stats)
 
+![Taylor's github stats](https://github-readme-stats.vercel.app/api?username=tniles320&show_icons=true&theme=dark)
+
 <!--
 **tniles320/tniles320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
