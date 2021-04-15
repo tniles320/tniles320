@@ -4,7 +4,7 @@ I am a Software engineer with a proven ability to efficiently create solutions f
 
 👀 View my portfolio here: [Portfolio](https://tniles320.github.io/)
 
-📝 Check my resume out here: [Taylor's Resume](#)
+📝 Check my resume out here: [Taylor's Resume](https://docs.google.com/document/d/1o3z0H592QeVFBCJdsyDakAH0NhoqDuOPa8a0nrbu8Hc/edit?usp=sharing)
 
 💬 Message me here: [Linkedin](https://www.linkedin.com/in/taylorniles117/)
 
