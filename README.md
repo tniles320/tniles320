@@ -2,7 +2,7 @@
 
 I am a Software engineer with a proven ability to efficiently create solutions for three paying clients while managing volatile and often unpredictable time commitments to each of them. Prior to transitioning to software engineering, I designed structures for $10M+ worth of construction projects to ensure industry safety standards were adhered to. As a life-long learner with a passion for coding, I attended a 1,000+ hour coding bootcamp to learn new skills (e.g. ReactJS, NodeJS, ExpressJS, etc.) while also sharpening existing skills. I am excited at the opportunity for professional growth and am eager to expand my coding acumen on a talented team while finding creative solutions to unique problems.
 
-👀 View my portfolio here: [Portfolio](https://tniles320.github.io/)
+<!-- 👀 View my portfolio here: [Portfolio](https://tniles320.github.io/) -->
 
 📝 Check my resume out here: [Taylor's Resume](https://docs.google.com/document/d/1SY4sF3N6an1YFpk-d_rWnN2Znwm0SSpnzhJUGGqeaGM/edit?usp=sharing)
 
